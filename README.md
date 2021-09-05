@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Undead-Alpha,
+- 👋 Hi, I’m @Nerdy Ady (I know I am a nerd...),
 - 👀 I’m interested in app devolopment / game devolopment in C++
 - 🌱 I’m currently learning C++ and Python.
 - 💞️ I’m looking to collaborate on anything.
